@@ -39,8 +39,10 @@ https://docs.trae.ai/i...​
 https://docs.trae.ai/ide/model-context-protocol?_lang=zh
 
 MCP集成網站：
-https://mcp.so/​
-https://smithery.ai/​
+https://mcp.so
+
+https://smithery.ai
+
 GitHub上部分MCP server整理：https://github.com/yzf...​
 
 https://github.com/yzfly/Awesome-MCP-ZH
